@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "DLsite",
+      "urlPattern": "dlsite.com"
+    }
+  ],
+  "file": "dlsite.js"
+}
